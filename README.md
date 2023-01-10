@@ -12,15 +12,15 @@ Here are some ideas to get you started:
   <td valign="left">
   <div>
         <img style="margin_left:120px;position:absolute;" width="40px" src="https://www.citypng.com/public/uploads/small/11640439066gvdicej5lgzwysh67xgewiixiqsmd6phvcidruhbvrizlpwtl7qhjckdiizpl7lvj3dgyl780ezhsdo2yp6bqe8tvg7eqvaa1p6n.png" width="300" alt="Abeltony-prog"/>
-      <p>Web Application Developer with over 7 years of experience as a backend developer in different tech companies.Data analyst with over 2 years of experience.</p>
+      <p>💬 In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</p>
       </div>
 <td >
 
    <a>
       <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="300" alt="Abeltony-prog"/>
       <ul>
-        <li>- 💬 In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</li>
-        <li>- 📫 How to reach me: abeltony03@gmail.com</li>
+        <li>- 📫 How to reach me: a.niyindag@alustundent.com</li>
+        <li>- 📫 My Profetional Git Account: abeltony-prog</li>
       </ul>
   </a>
 
