@@ -20,7 +20,7 @@ Here are some ideas to get you started:
       <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="300" alt="Abeltony-prog"/>
       <ul>
         <li>- 📫 How to reach me: a.niyindag@alustundent.com</li>
-        <li>- 📫 My Profetional Git Account: abeltony-prog</li>
+        <li>- 😊 My Profetional Git Account: abeltony-prog</li>
       </ul>
   </a>
 
